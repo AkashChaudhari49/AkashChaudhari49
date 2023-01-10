@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akash Chaudhari</h1>
 <h3 align="center">A passionate about Fullstack Developement</h3>
 
-- 🌱 I’m currently learning **NodeJs, Express.**
+- 🌱 I’m interested in Frontend Technology.**
 
 - 📫 How to reach me **akshchaudhari49@gmail.com**
 
